@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fifth-handbook-387017",
+  "private_key_id": "6f2b14e29677a69deb26799dcfd2a91dde4ea88d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9oGUAPtb7E85g\n4eIF/ukRLnJq7LgWLS6svo6cY5xeF+YfRo9c9QxqG9ssxbtcDDI50qcOBTPjPLwc\n49Z3gtxGi03h0q3KdI5CUl8iJbtkJnPa4U5TI/A/hvpInaveJl3I55SzzDg1Z8y8\n4ZPSwCVUs/MLSdjyXwpX5KhNVHeZ/zYgoNcZAjx+RZ0BmUozvRMdlOlzeBT6LiWp\nms+KEY7OVYTf5Uj0+f78k96LVoxJvDOLhaD+jL+pbo6uzAtnQGZMrf6Z3axKJYcS\nFYVg7sPyHSiuXKe9w1c3CG96WY8mRODdBDTFngvDKVpVWwBGyeLay+TKyYxYECdC\nSnYf4t+DAgMBAAECggEABG+YA6r0qLGPnnjHERo9X1KfIf0BC24pwHT1IH4JPn9z\nOZN5fBSBb1c3R9m/GcnXpos7SQEtjXXL9fMNS9HRKSQa6AFflM2OnGLEtfRJaQmo\nCsLb7BotnxbSjD6GZdWvVClSs05y/12hW2CXIcZIuUc7+sbsXv/pKogyhbVho0Xb\n1SYox1latnirfWM8Pqrrr9k1BVEP+EYIuj77p7pGME9WJNCqCwl1fRhTESKN3TWH\nuns0tPErxw78V6I5Z1jkiK+XByQbVBwyrjeq37gZ1mMAjzDBuppOEzlxiFxdE2bx\nLjrrbx0wDeEDAurU2Bl9yPvyaO1OFKIXeldRwtrLtQKBgQD2NzCRKI2bOtmxXPPI\nc+edKGu0xzEOuhmb3fDnGaE9lOuMpeUFTtNH9XrdPJF61ijr8t+M9teocOuyucQe\nTzyqB79sYvpFNXXt7whMRL9Brv6t6W/RIa4iMTPT0MBc8OdlbkqbjhqSEX7Ih+i3\nnYZ3hCpQUdawhCORQarlpD0nxwKBgQDFKYLJb6gqvDxjIDV9bIyMHw7HFCji7Xk+\nsL6UgycK+kYcEagnpV226ySIgMcBXEyKNBYkTYa3b1qqoKCO3uQDEruwf+/l4lHb\nKLROgLI6wziSNvibeLGW4s+wc3aofMwLNWZqAWQfGF2oxj4Kp9aMtJpvI8CDK7YQ\ngvhIEThiZQKBgQCoggsePaf0xmk45wn9db3dpE1akz0y/BEMyO/X6oWc9O/k+aDt\nag5V4F7vTUWv0SR+n2F6Q3JDWM0nK9ZafBZjtBvBnVf1x+nnJsICGMbguFibQ/mA\nItHfmtcCr4sH0OQ9Wid7oNz0fT7NFZ8jE490+qJPCEOr2TPSdSP2ONqV/wKBgEih\nzTOF9a6gn6JoyCvHZFNuUZRXQeSvVR4aIGs3kZeCsXc/rfHFAqwTHedHgYhnxy6W\nl52SDdHfrMf02pEnXVogeZJA31CRulQBP8M3t/Db4ChFJfqoUMvkDFzVfF3/c2+h\noXPlxUuLP12gglSMlgZJtibBRfdMkAqvJOXvqhTdAoGBALqHwws9cScuEh0RY9R1\nGIR3g+X6/T/LNpoYlk//jajFxCg+UHDJ4NbnUV69HqalIfhaFpWIy4yRUzJ+xXmY\nEtpNL70Dc3YT3MNSGPjsUw3szXeqj4VZ5D8Ju1+MqdgXJJK1Raw15qxIZRQhlUCf\nbT3ZJg5V5Tx9UrJPkD7nhrYD\n-----END PRIVATE KEY-----\n",
+  "client_email": "vettex-ai@fifth-handbook-387017.iam.gserviceaccount.com",
+  "client_id": "109124307060379209551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vettex-ai%40fifth-handbook-387017.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
